@@ -167,6 +167,12 @@
 		color:#111111;
 	}
 }
+
+@media (min-width: 992px) {
+	.try_slider_img_header_Wrapper{
+		width: 650px;
+	}
+}
 @media (min-width: 767px){
 	.main-menu .navigation > li:hover > a,
 .main-menu .navigation > li.current > a,

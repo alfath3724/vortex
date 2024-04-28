@@ -1949,7 +1949,7 @@ width:100%;
 .try_banner_watch_slider_wrapper{
 	float:left;
 	width:100%;
-	background:url('../images/content/custom-bg2.jpg') 50% 0 repeat-y;
+	background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/content/custom-bg2.jpg') 50% 0 repeat-y;
 	background-position:center 0;
 	background-size:cover;
 	position:relative;
